@@ -1,0 +1,7 @@
+How to name the data:
+
+In lightcurve: SNname_LC_raw.csv
+For example: SN2023ixf_LC_raw.csv
+
+In Mockdata: SNname_mock.csv
+For example: SN2023ixf_mock.csv
