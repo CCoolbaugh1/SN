@@ -1,0 +1,5 @@
+SN_Name,Object_ID,ZTF_Link,Type,RA,DEC,Redshift,Discovery_Date,Discovery_Time_UTC,Discovery_Date_MJD,Latest_Discovery_Date,Latest_Discovery_Time,Latest_MJD,Disc_r_Mag,Disc_r_Mag_Err,Latest_Disc_r_Mag,Latest_Disc_r_Mag_Err,Host_Galaxy,Discovery_Magnitude,Peak_Mag,Peak_Mag_Err,Peak_Mag_Band,Peak_Date,Peak_Time,Peak_MJD,Equatorial_Coords_RA,Equatorial_Coords_DEC,Galactic_Coords_RA,Galactic_Coords_DEC,Ecliptic_Coords_RA,Ecliptic_Coords_DEC,Detection_Count,Telescope,Notes
+SN2017ivu,ZTF18aaylcqb,https://lasair-ztf.lsst.ac.uk/objects/ZTF18aaylcqb/,IIP,234.1363,16.605601,0.007,2018-06-07,07:06:53,58276.3,2024-09-16,04:15:07,60569.18,17.54,0.03,17.24,0.06,NGC5962,15.4,16.63,0.24,r,2023-12-11,13:17:22,60289.55,12:26:12.076,16:36:20.165,26.250973,50.468153,226.847527,34.828321,0,None,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,
