@@ -12,11 +12,3 @@ MJD,filter,unforced_mag,unforced_mag_error,unforced_mag_status,forced_ujy,forced
 60031.149236,r,16.619,0.028,positive,,
 60020.168137,g,20.005,,limit,,
 60013.271771,g,19.076,,limit,,
-import pandas as pd
-import matplotlib.pyplot as plt
-# Replace with SN name
-SN_name = "ZTF23aadvjqb"
-save_path = './'
-file = SN_name +"_LC_raw.csv"
-df = pd.read_csv(file)
-df
