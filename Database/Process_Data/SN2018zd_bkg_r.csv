@@ -1,0 +1,6 @@
+,MJD,filter,unforced_mag,unforced_mag_error,unforced_mag_status,forced_ujy,forced_ujy_error
+23,60577.508322,r,19.493,,limit,-7.0,7.2
+28,60576.471192,r,19.701,,limit,2.8,6.2
+31,60575.38897,r,19.447,,limit,1.0,8.2
+151,59882.492477,r,19.603,,limit,,
+171,59857.408669,r,20.455,,limit,,
